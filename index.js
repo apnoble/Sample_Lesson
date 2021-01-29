@@ -1,10 +1,10 @@
 // An object to store the strings for the locations of the images
 const imageLocations = {
-    paws: "src/CrossPaws.jpg",
-    haircut: "src/Haircut.jpeg",
-    stand: "src/Stand.jpg",
-    yawn: "src/Yawn.jpg",
-    nap: "src/Nap.jpg"
+    paws: "Sample_Lesson/src/CrossPaws.jpg",
+    haircut: "Sample_Lesson/src/Haircut.jpeg",
+    stand: "Sample_Lesson/src/Stand.jpg",
+    yawn: "Sample_Lesson/src/Yawn.jpg",
+    nap: "Sample_Lesson/src/Nap.jpg"
 }
 
 class Cat {
