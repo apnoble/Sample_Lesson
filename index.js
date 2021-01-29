@@ -4,7 +4,7 @@ const imageLocations = {
     haircut: "/src/Haircut.jpeg",
     stand: "/src/Stand.jpg",
     yawn: "/src/Yawn.jpg",
-    nap: "/src/Nap.jpg"
+    nap: "https://apnoble.github.io/Sample_Lesson/src/Nap.jpg"
 }
 
 class Cat {
